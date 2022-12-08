@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <mistd.h>
+#include <unistd.h>
 /**
  * main - Entry
  * Returd: 1
