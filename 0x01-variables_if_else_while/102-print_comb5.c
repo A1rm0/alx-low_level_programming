@@ -15,7 +15,7 @@ int main(void)
 		for (j = 0; j < 100; j++)
 		{
 			putchar((1 / 10) + 48);
-			puchar((1 % 10) + 48);
+			putchar((1 % 10) + 48);
 			putchar(' ');
 			putchar((j / 10) + 48) + 48);
 			putchar((j / 10) + 48) + 48);
