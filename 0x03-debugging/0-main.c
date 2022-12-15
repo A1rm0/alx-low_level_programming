@@ -1,6 +1,6 @@
 #include "main.h"
 
-/*
+/**
  * main - positive or negative
  * Return: 0
  */
