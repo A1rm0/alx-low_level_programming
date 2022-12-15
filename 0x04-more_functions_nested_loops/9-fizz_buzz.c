@@ -1,4 +1,4 @@
-#include <stdio.>
+#include <stdio.h>
 /**
  * main - prints fizz and buzz
  * Return: Always 0
