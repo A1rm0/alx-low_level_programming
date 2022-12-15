@@ -3,7 +3,7 @@
  * main - prints fizz and buzz
  * Return: Always 0
  */
-int int main(void)
+int main(void)
 {
 	int n;
 
